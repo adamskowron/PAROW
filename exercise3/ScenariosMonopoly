@@ -1,0 +1,36 @@
+AS a PLAYER, as a player, I can stand in a specific field
+
+GIVEN Id of field
+WHEN field belongs to someone
+AND I have a money
+THEN I pay to someone given amount of money
+
+_______________________________________________________________________
+
+
+AS a PLAYER, as a player, I can stand in a specific field
+
+GIVEN Id of field
+WHEN field belongs to someone
+AND I do not have a money
+THEN I quit a game
+
+_______________________________________________________________________
+
+As a PLAYER standing on field called prison, 
+I can go to prison and miss turn or pay a ransom
+
+GIVEN ammount to pay
+WHEN standing on prison field
+AND I have a money
+THEN I pay ransom
+
+_______________________________________________________________________
+
+As a PLAYER standing on field called prison, 
+I can go to prison and miss turn or pay a ransom
+
+GIVEN ammount to pay
+WHEN standing on prison field
+AND I do not have a money
+THEN I go to the prison

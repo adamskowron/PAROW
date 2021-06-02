@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/gtest/googlemock",
+  "command": "/usr/bin/c++   -isystem /home/paro/Pulpit/paro-master/gtest/googlemock/include -isystem /home/paro/Pulpit/paro-master/gtest/googlemock -isystem /home/paro/Pulpit/paro-master/gtest/googletest/include -isystem /home/paro/Pulpit/paro-master/gtest/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/paro/Pulpit/paro-master/gtest/googlemock/src/gmock_main.cc",
+  "file": "/home/paro/Pulpit/paro-master/gtest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/gtest/googlemock",
+  "command": "/usr/bin/c++   -I/home/paro/Pulpit/paro-master/gtest/googlemock/include -I/home/paro/Pulpit/paro-master/gtest/googlemock -isystem /home/paro/Pulpit/paro-master/gtest/googletest/include -isystem /home/paro/Pulpit/paro-master/gtest/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/paro/Pulpit/paro-master/gtest/googlemock/src/gmock-all.cc",
+  "file": "/home/paro/Pulpit/paro-master/gtest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/gtest/googletest",
+  "command": "/usr/bin/c++   -isystem /home/paro/Pulpit/paro-master/gtest/googletest/include -isystem /home/paro/Pulpit/paro-master/gtest/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/paro/Pulpit/paro-master/gtest/googletest/src/gtest_main.cc",
+  "file": "/home/paro/Pulpit/paro-master/gtest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/gtest/googletest",
+  "command": "/usr/bin/c++   -I/home/paro/Pulpit/paro-master/gtest/googletest/include -I/home/paro/Pulpit/paro-master/gtest/googletest    -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -Wpedantic -std=c++14 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/paro/Pulpit/paro-master/gtest/googletest/src/gtest-all.cc",
+  "file": "/home/paro/Pulpit/paro-master/gtest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/exercise2",
+  "command": "/usr/bin/c++  -DScrabble_EXPORTS -I/home/paro/Pulpit/paro-master/exercise2/include  -fPIC   -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/Scrabble.dir/src/scrabble.cpp.o -c /home/paro/Pulpit/paro-master/exercise2/src/scrabble.cpp",
+  "file": "/home/paro/Pulpit/paro-master/exercise2/src/scrabble.cpp"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/exercise2/ut",
+  "command": "/usr/bin/c++   -I/home/paro/Pulpit/paro-master/exercise2/include -isystem /home/paro/Pulpit/paro-master/gtest/googletest/include -isystem /home/paro/Pulpit/paro-master/gtest/googletest    -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/ScrabbleTest.dir/scrabble-tests.cpp.o -c /home/paro/Pulpit/paro-master/exercise2/ut/scrabble-tests.cpp",
+  "file": "/home/paro/Pulpit/paro-master/exercise2/ut/scrabble-tests.cpp"
+},
+{
+  "directory": "/home/paro/Pulpit/paro-master/Build/application",
+  "command": "/usr/bin/c++      -Wall -Wextra -Wpedantic -std=gnu++14 -o CMakeFiles/PARO-workshop.dir/main.cpp.o -c /home/paro/Pulpit/paro-master/application/main.cpp",
+  "file": "/home/paro/Pulpit/paro-master/application/main.cpp"
+}
+]
